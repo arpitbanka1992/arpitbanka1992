@@ -1,64 +1,52 @@
-# Hey there! 👋 I'm Arpit Banka
-
+# Arpit Banka
 ### Senior Product Owner | Cloud-Native SaaS | API-first Platforms | GenAI Adoption
 
-I'm a product leader with **12 years of experience**, including a deliberate 
-transition from QA engineering into full Product Ownership of a live, 
-multi-client SaaS document management platform.
-
-My engineering background gives me an edge most POs don't have — I bring 
-technical depth to product decisions, speak the same language as developers, 
-and ship with confidence.
+Product leader with **12 years of experience** — including full ownership 
+of a live, multi-client cloud-native SaaS platform. I define scope, drive 
+releases, align stakeholders across geographies, and bring engineering 
+credibility most POs simply don't have.
 
 ---
 
-## 🎯 Current Focus
-- Delivering production releases for a **cloud-native, API-first SaaS** document management platform
-- Leading a **GenAI-enabled customer-facing feature** from vision to delivery
-- Using **GitHub Copilot + Claude** to accelerate team velocity by ~40%
-- Bridging **US stakeholders ↔ India engineering teams** daily
+## 🎯 What I'm Delivering Right Now
+- End-to-end ownership of **2 consecutive production releases** on a 
+  mission-critical, multi-client document management SaaS platform
+- Took a **GenAI-enabled feature** from concept to client-facing delivery
+- Driving **~40% faster release cycles** through GitHub Copilot & Claude 
+  adoption across product, engineering & QA
+- Daily bridge between **US business stakeholders** and **India engineering teams**
 
 ---
 
-## 🛠️ Product Management Skills & Tools
+## 🛠️ Product Skills & Tools
 
-### 📋 Core PM Skills
-- Backlog Prioritization & Roadmap Planning
-- User Story Writing & Acceptance Criteria Definition
-- Sprint Planning, Grooming & Retrospectives
-- Stakeholder Alignment & Executive Communication
-- Scope Management & Trade-off Decisions
-- Definition of Done (DoD) & Release Governance
-- UAT Ownership & Go/No-Go Decision Making
-- OKRs, KPIs & Metrics-driven Decision Making
-- Voice of Customer & Feedback Loops
-- Cross-functional Team Leadership (US ↔ India)
+### Core Product Competencies
+| What I do | How I do it |
+|-----------|------------|
+| Roadmap & Prioritization | OKR-aligned backlog, MoSCoW, stakeholder trade-offs |
+| Sprint Execution | Story writing, grooming, planning, retrospectives |
+| Release Governance | DoD, Go/No-Go, security sign-off, release notes |
+| Stakeholder Management | US–India async collaboration, executive reporting |
+| Scope Control | Pushback framework, in/out decisions, MVP definition |
+| GenAI Adoption | Team-wide Copilot & Claude rollout, prompt engineering |
 
-### 🧰 Product Tools
+### 🧰 Tools
 | Category | Tools |
 |----------|-------|
-| Backlog & Project Management | JIRA, Confluence, TFS |
-| Documentation | Confluence, Markdown |
-| Diagramming & Wireframing | Miro, Lucidchart |
-| API Design & Testing | Postman, REST APIs |
+| Backlog & Tracking | JIRA, Confluence, TFS |
+| API & Integration | Postman, REST APIs |
 | CI/CD & DevOps | Jenkins, GitHub Actions |
 | Security & Compliance | SAST, DAST, Contrast Scans |
-
-### 🤖 GenAI Tools
-| Tool | How I use it |
-|------|-------------|
-| GitHub Copilot | Accelerate team delivery & code reviews |
-| Claude AI | PRD writing, prompt engineering, release notes |
-| Sidekick (In-house) | Process acceleration across product & engineering |
+| GenAI | GitHub Copilot, Claude AI |
 
 ### ☁️ Platforms
 - Salesforce (Sales Cloud, Financial Services Cloud, Health Cloud)
-- Cloud-native SaaS (Microservices, API-first architecture)
+- Cloud-native SaaS · Microservices · API-first architecture
 - Agile / Scrum
 
 ---
 
-## 📂 My Repositories
+## 📂 Repositories
 
 | Repo | What's inside |
 |------|--------------|
@@ -83,4 +71,4 @@ and ship with confidence.
 
 ---
 
-*"Quality is not a phase — it's a mindset. That's what makes a QA-turned-PO dangerous in the best way."*
+*"The best product decisions come from people who understand both the customer and the code."*
