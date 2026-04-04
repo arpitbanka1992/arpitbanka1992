@@ -6,9 +6,9 @@ I'm a product leader with **12 years of experience**, including a deliberate
 transition from QA engineering into full Product Ownership of a live, 
 multi-client SaaS document management platform.
 
-My QA background gives me an edge most POs don't have — I bring engineering 
-depth to product decisions, speak the same language as developers, and ship 
-with confidence.
+My engineering background gives me an edge most POs don't have — I bring 
+technical depth to product decisions, speak the same language as developers, 
+and ship with confidence.
 
 ---
 
@@ -20,39 +20,53 @@ with confidence.
 
 ---
 
-## 💼 Professional Background
-- **Senior Product Owner** – Full product lifecycle ownership on a multi-client SaaS platform
-- **QA Engineering Roots** – 12 years building quality in from day one
-- **Cross-functional Leader** – Engineering, QA, Security, Performance & Tech Writing
+## 🛠️ Product Management Skills & Tools
+
+### 📋 Core PM Skills
+- Backlog Prioritization & Roadmap Planning
+- User Story Writing & Acceptance Criteria Definition
+- Sprint Planning, Grooming & Retrospectives
+- Stakeholder Alignment & Executive Communication
+- Scope Management & Trade-off Decisions
+- Definition of Done (DoD) & Release Governance
+- UAT Ownership & Go/No-Go Decision Making
+- OKRs, KPIs & Metrics-driven Decision Making
+- Voice of Customer & Feedback Loops
+- Cross-functional Team Leadership (US ↔ India)
+
+### 🧰 Product Tools
+| Category | Tools |
+|----------|-------|
+| Backlog & Project Management | JIRA, Confluence, TFS |
+| Documentation | Confluence, Markdown |
+| Diagramming & Wireframing | Miro, Lucidchart |
+| API Design & Testing | Postman, REST APIs |
+| CI/CD & DevOps | Jenkins, GitHub Actions |
+| Security & Compliance | SAST, DAST, Contrast Scans |
+
+### 🤖 GenAI Tools
+| Tool | How I use it |
+|------|-------------|
+| GitHub Copilot | Accelerate team delivery & code reviews |
+| Claude AI | PRD writing, prompt engineering, release notes |
+| Sidekick (In-house) | Process acceleration across product & engineering |
+
+### ☁️ Platforms
+- Salesforce (Sales Cloud, Financial Services Cloud, Health Cloud)
+- Cloud-native SaaS (Microservices, API-first architecture)
+- Agile / Scrum
 
 ---
 
-## 🛠️ Core Expertise
-
-### Product & Strategy
-- Product roadmap development and prioritization
-- Stakeholder management and cross-functional leadership
-- User story definition and acceptance criteria
-- Scope management and release governance
-
-### Technical Skills
-- **GenAI Tooling** – GitHub Copilot, Claude AI
-- **Salesforce** – Sales Cloud, Financial Services Cloud, Health Cloud
-- **Test Automation** – Cypress, Selenium, Provar
-- **Project Management** – JIRA, Confluence, TFS
-- **Cloud-Native & API-first** – REST APIs, microservices, CI/CD
-
----
-
-## 📂 Repositories
+## 📂 My Repositories
 
 | Repo | What's inside |
 |------|--------------|
 | [product-artifacts](https://github.com/arpitbanka1992/product-artifacts) | PRD templates, user stories, acceptance criteria, DoD checklists |
 | [genai-for-product-teams](https://github.com/arpitbanka1992/genai-for-product-teams) | Prompt libraries for POs, QA & engineering teams |
 | [release-playbook](https://github.com/arpitbanka1992/release-playbook) | End-to-end release readiness framework |
-| [cypress-automation-samples](https://github.com/arpitbanka1992/cypress-automation-samples) | E2E test automation samples in Cypress |
-| [api-testing-basics](https://github.com/arpitbanka1992/api-testing-basics) | API testing fundamentals for product-minded testers |
+| [cypress-automation-samples](https://github.com/arpitbanka1992/cypress-automation-samples) | E2E test automation samples |
+| [api-testing-basics](https://github.com/arpitbanka1992/api-testing-basics) | API testing fundamentals |
 
 ---
 
