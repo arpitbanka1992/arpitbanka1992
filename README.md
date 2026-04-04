@@ -80,7 +80,6 @@ and ship with confidence.
 
 ## 📬 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Arpit%20Banka-blue?logo=linkedin)](https://www.linkedin.com/in/arpit-b150a403b/)
-[![Email](https://img.shields.io/badge/Email-arpitbanka1992%40gmail.com-red?logo=gmail)](mailto:arpitbanka1992@gmail.com)
 
 ---
 
